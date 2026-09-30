@@ -1,0 +1,10 @@
+pyproject.toml
+src/exodetect/__init__.py
+src/exodetect/core.py
+src/exodetect/tess.py
+src/exodetect.egg-info/PKG-INFO
+src/exodetect.egg-info/SOURCES.txt
+src/exodetect.egg-info/dependency_links.txt
+src/exodetect.egg-info/entry_points.txt
+src/exodetect.egg-info/requires.txt
+src/exodetect.egg-info/top_level.txt
