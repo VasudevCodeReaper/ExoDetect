@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: exodetect-mission-control
-    runtime: python
-    plan: free
-    buildCommand: pip install -r requirements.txt && pip install .
-    startCommand: streamlit run app.py --server.address 0.0.0.0 --server.port $PORT
-    healthCheckPath: /_stcore/health
